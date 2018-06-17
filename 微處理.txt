@@ -1,0 +1,2 @@
+https://github.com/MediaTek-Labs/linkit-7697-peripheral-drivers-for-arduino <--進去之後找ultrasonic 之後用內建的程式,irremote也是從裡面加
+https://github.com/adafruit/DHT-sensor-library/releases
